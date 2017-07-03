@@ -1,0 +1,15 @@
+.DS_Store
+
+# dependency directory
+!node_modules/
+node_modules/*
+!node_modules/moment
+bower_components/
+*.node
+
+# source directory
+
+# logs
+logs
+*.log
+npm-debug.log*
